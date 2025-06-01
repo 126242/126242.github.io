@@ -3,24 +3,24 @@ export default {
     site_name: "My Awesome Site",
     site_description: "这是一个使用 VitePress 构建的文档站点。",
     site_url: "/",
-    author: '57Darling02',
+    author: 'ZYK',
     
     // 首页配置
     home:{
         mainTitle:"My Awesome Site",
         subTitles:['世界上只有一种英雄主义','那就是在认清生活的真相后','依然热爱生活'],//打字机效果的副标题，使用字符串列表
     },
-    background:'/wallpaper/1.webp',
+    background:'',
     // 侧边简介卡
     avatar: "https://resource-un4.pages.dev/article/yjtp.webp",
-    name: '57Darling02',
-    position: '全栈开发、优化算法爱好者',
+    name: 'ZYK',
+    position: '老大',
     bio: '红红火火恍恍惚惚',
     socialLinks: [
       {
         name: 'GitHub',
         icon: 'fa-brands fa-github',
-        url: 'https://github.com/57Darling02/'
+        url: 'https://github.com/126242/'
       }
     ],
     footer: {
